@@ -119,7 +119,7 @@
     "indent-string": "^5.0.0",
     "jsonc-parser": "^3.3.1",
     "lodash-es": "^4.17.23",
-    "lru-cache": "^11.2.7",
+    "lru-cache": "11.2.7",
     "marked": "^17.0.5",
     "modifiers-napi": "workspace:*",
     "p-map": "^7.0.4",
